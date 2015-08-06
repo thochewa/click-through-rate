@@ -1,2 +1,3 @@
 # click-through-rate
-Analysis of the 'Click Through Rate' Kaggle Challenge
+
+This code is based on the Berkeley Machine Learning Course and will be adapted to analyze the full data of the Kaggle 'Click Through Rate predictions' challenge   
